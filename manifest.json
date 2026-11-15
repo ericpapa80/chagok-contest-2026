@@ -1,0 +1,144 @@
+{
+  "assets": [
+    {
+      "video": "assets/videos/gallery/01_안개가 먼저 와 있던 날.mp4",
+      "title": "01_안개가 먼저 와 있던 날",
+      "image": "assets/images/gallery/01_안개가 먼저 와 있던 날.png"
+    },
+    {
+      "video": "assets/videos/gallery/02_가평휴게소 18분.mp4",
+      "title": "02_가평휴게소 18분",
+      "image": "assets/images/gallery/02_가평휴게소 18분.png"
+    },
+    {
+      "video": "assets/videos/gallery/03_케이블카가 호수 위를 날았어.mp4",
+      "title": "03_케이블카가 호수 위를 날았어",
+      "image": "assets/images/gallery/03_케이블카가 호수 위를 날았어.png"
+    },
+    {
+      "video": "assets/videos/gallery/04_집으로 가는 길.mp4",
+      "title": "04_집으로 가는 길",
+      "image": "assets/images/gallery/04_집으로 가는 길.png"
+    },
+    {
+      "video": "assets/videos/gallery/05_양평 들판.mp4",
+      "title": "05_양평 들판",
+      "image": "assets/images/gallery/05_양평 들판.png"
+    },
+    {
+      "video": "assets/videos/gallery/06_비 오던 송도.mp4",
+      "title": "06_비 오던 송도",
+      "image": "assets/images/gallery/06_비 오던 송도.png"
+    },
+    {
+      "video": "assets/videos/gallery/07_3년 전 가을.mp4",
+      "title": "07_3년 전 가을",
+      "image": "assets/images/gallery/07_3년 전 가을.png"
+    },
+    {
+      "video": "assets/videos/gallery/08_등원길 아침.mp4",
+      "title": "08_등원길 아침",
+      "image": "assets/images/gallery/08_등원길 아침.png"
+    },
+    {
+      "video": "assets/videos/gallery/09_퇴근길 노을.mp4",
+      "title": "09_퇴근길 노을",
+      "image": "assets/images/gallery/09_퇴근길 노을.png"
+    },
+    {
+      "video": "assets/videos/gallery/10_첫 바다.mp4",
+      "title": "10_첫 바다",
+      "image": "assets/images/gallery/10_첫 바다.png"
+    },
+    {
+      "video": "assets/videos/gallery/11_할머니 댁 가는 길.mp4",
+      "title": "11_할머니 댁 가는 길",
+      "image": "assets/images/gallery/11_할머니 댁 가는 길.png"
+    },
+    {
+      "video": "assets/videos/other/시작화면_배경_안개낀호수.mp4",
+      "title": "시작화면_배경_안개낀호수",
+      "image": "assets/images/other/시작화면_배경_안개낀호수.png"
+    },
+    {
+      "video": null,
+      "title": "카메라화면_도로",
+      "image": "assets/images/other/카메라화면_도로.png"
+    },
+    {
+      "video": "assets/videos/today/01_우리 집.mp4",
+      "title": "01_우리 집",
+      "image": "assets/images/today/01_우리 집.png"
+    },
+    {
+      "video": "assets/videos/today/02_가평휴게소.mp4",
+      "title": "02_가평휴게소",
+      "image": "assets/images/today/02_가평휴게소.png"
+    },
+    {
+      "video": "assets/videos/today/03_의암호 길.mp4",
+      "title": "03_의암호 길",
+      "image": "assets/images/today/03_의암호 길.png"
+    },
+    {
+      "video": "assets/videos/today/04_춘천 케이블카.mp4",
+      "title": "04_춘천 케이블카",
+      "image": "assets/images/today/04_춘천 케이블카.png"
+    },
+    {
+      "video": "assets/videos/today/05_귀갓길.mp4",
+      "title": "05_귀갓길",
+      "image": "assets/images/today/05_귀갓길.png"
+    }
+  ],
+  "screens": [
+    "01_시작화면_슬로건과_쌓으러_가기_버튼.png",
+    "02_카메라_촬영_대기_앞유리_도로와_차_상태_패널.png",
+    "03_카메라_촬영_중_셔터_링이_차오르는_중.png",
+    "04_카메라_촬영_직후_오늘의기록에_저장됐다는_안내.png",
+    "05_오늘의기록_카드_줄_맨_끝_방금_찍은_카드.png",
+    "06_오늘의기록_카드_줄_맨_앞_출발_가평휴게소.png",
+    "07_카드_열기_출발_카드_클립_재생_중.png",
+    "08_카드_열기_재생_끝_편집_버튼과_다음_카드_화살표.png",
+    "09_카드_편집_제목_수정_입력창과_추천_문구_키보드_열림.png",
+    "10_카드_편집_제목_수정_키보드_닫고_저장_취소_버튼.png",
+    "11_카드_길게_눌러_삭제_이_순간을_삭제할까요.png",
+    "12_오늘의기록_비었을_때_촬영하러_가기와_예시_하루_불러오기.png",
+    "13_하루_자동_재생_시작_하루가_시작돼요.png",
+    "14_하루_자동_재생_카드가_시간순으로_하나씩_나타남.png",
+    "15_하루_자동_재생_중반_카드가_쌓이는_중.png",
+    "16_하루_자동_재생_끝_카드가_다_쌓이고_주차_상태로_복귀.png",
+    "17_한마디_질문_여기_어땠어요_대답_대기.png",
+    "18_한마디_대답이_글로_받아_적히고_목소리로도_저장됨.png",
+    "19_한마디_다음_기록으로_넘어가_다른_장소에서_질문.png",
+    "20_귀갓길_낭독_대기_오늘_우리의_이야기_들어볼까요.png",
+    "21_귀갓길_낭독_첫_문장_근거_표시와_함께_읽는_중.png",
+    "22_귀갓길_낭독_문장이_차례로_쌓이는_중.png",
+    "23_귀갓길_낭독_후반_딸_목소리_근거와_함께.png",
+    "24_귀갓길_낭독_끝_이야기_완성.png",
+    "25_홈화면_앱을_나가도_떠_있는_눌러서_5초_기록_버튼.png",
+    "26_홈화면_기록_버튼을_누르면_녹화_중_남은_초가_줄어듦.png",
+    "27_홈화면_5초_기록_끝_저장됨_오늘의_기록에_담았어요.png",
+    "28_오늘의기록_홈_기록_버튼으로_찍은_5초_영상이_카드로_쌓임.png",
+    "29_5초_영상_카드_열기_실제_녹화_영상이_소리와_함께_재생.png",
+    "30_갤러리_모아보기_첫_화면_자유_배치_콜라주.png",
+    "31_갤러리_모아보기_옆으로_밀어_둘러보기.png",
+    "32_갤러리_모아보기_끝부분.png",
+    "33_갤러리_카드_탭_편집_제목_타임스탬프_글귀_삭제.png",
+    "34_갤러리_편집_타임스탬프를_날짜와_시각으로_바꾼_모습.png",
+    "35_갤러리_영상_보관함_홈_기록_버튼으로_찍은_5초_영상들.png",
+    "36_영상_보관함_영상_탭_전체_화면_재생.png",
+    "37_갤러리_지도_도로망_위의_기억_핀_주차_중.png",
+    "38_지도_범례_눌러_송도_경로_숨기기.png",
+    "39_지도_확대_버튼으로_도로_자세히_보기.png",
+    "40_갤러리_회상_3년_전_이_길에서_들려드릴까요.png",
+    "41_갤러리_회상_들려주세요_누른_뒤_딸_목소리_재생.png",
+    "42_주행_중_음성_모드_상태_회상_화면.png",
+    "43_주행_중_지도_탭_주행_중에는_잠김.png",
+    "44_주행_중_갤러리_모아보기.png",
+    "45_설정_기억_이사_화질_설정_개인정보_보호_세_묶음.png",
+    "46_설정_새_현대차에_로그인_기억_이사_후_누적_거리와_핀이_따라옴.png",
+    "47_설정_화질을_최고화질로_바꾼_상태.png",
+    "48_설정_목업_환경으로_되돌리기_확인_되돌리기_취소.png"
+  ]
+}
