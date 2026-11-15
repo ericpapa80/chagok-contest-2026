@@ -2,7 +2,7 @@
 
 차를 타고 함께한 순간을 장소와 시간에 연결하고 다시 꺼내보는 차량용 기억 기록 앱의 공모전 제출자료입니다.
 
-[제출자료 보기](https://ericpapa80.github.io/chagok-contest-2026/) · [60초 시연](https://ericpapa80.github.io/chagok-contest-2026/#demo) · [30초 숏폼](https://ericpapa80.github.io/chagok-contest-2026/#short)
+[제출자료 보기](https://ericpapa80.github.io/chagok-contest-2026/) · [60초 시연](https://ericpapa80.github.io/chagok-contest-2026/videos/chagok-demo-60s.mp4?v=highway15final) · [30초 숏폼](https://ericpapa80.github.io/chagok-contest-2026/videos/chagok-short-30s.mp4)
 
 완성 자료: 화면 48장(실사 시안 36장 + 원본 유지 12장), 비교용 원본 48장, 개별 이미지 18장, 앱용 확대 영상 17개, 제출용 영상 2개.
 
@@ -45,3 +45,7 @@
 ## 편집 재현
 
 Windows PowerShell 7, FFmpeg, 맑은 고딕 글꼴이 필요합니다. 저장소에서 `pwsh -NoProfile -File tools/build-submission.ps1`을 실행하면 화면과 `videos/source`의 Higgsfield 생성 클립으로 제출용 영상 2개를 다시 만듭니다. 앱 실행을 위한 빌드 명령은 아닙니다.
+
+## 숏폼 리뉴얼 — 2026-11-15
+
+가상의 한국인 가족이 풍경을 기록하고 한마디를 더한 뒤, 몇 해 후 같은 장소에서 추억을 꺼내보는 30초 세로 콘셉트 영상입니다. Higgsfield Seedance 2.5 유료 1080p로 6초 장면 4개를 생성하고, 기존 고속도로 영상을 함께 편집했습니다. 전체 화면 실사풍 장면과 큰 한글 자막을 사용하며 실제 앱 조작이나 실재 가족의 기록은 아닙니다. 기존 build-submission.ps1은 초기 버전 재현용이므로 최신 영상을 덮어쓰지 않도록 주의하세요.
