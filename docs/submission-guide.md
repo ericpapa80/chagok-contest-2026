@@ -6,7 +6,7 @@
 |---|---|
 | 앱 화면 시안 48장 | https://ericpapa80.github.io/chagok-contest-2026/#screens |
 | 화면 흐름 시연 60초 | https://ericpapa80.github.io/chagok-contest-2026/#demo |
-| GitHub 자료 저장소 | https://github.com/ericpapa80/chagok-contest-2026 |
+| GitHub 자료 저장소 | https://github.com/moontomoon119/chagok-chagok |
 | 세로 소개 영상 30초 | https://ericpapa80.github.io/chagok-contest-2026/#short |
 | 숏폼 MP4 | https://ericpapa80.github.io/chagok-contest-2026/videos/chagok-short-30s.mp4 |
 
@@ -17,10 +17,13 @@
 ## 구현 상태
 
 - GitHub는 제출자료 및 편집 도구 저장소입니다. Android 앱 소스 저장소가 아닙니다.
-- 앱 소스·APK가 확보되지 않아 실제 입력 동작, 빌드, 차량 데이터 연동은 검증하지 않았습니다.
+- 개발팀은 v0.3.4 release APK의 Pleos 에뮬레이터 실행을 확인했습니다. 구체적인 구현·미연동 범위는 [개발 현황](implementation-status.md)을 참고하세요. 이 미디어 자료 제작 과정에서 APK 실행을 독립적으로 재검증한 것은 아닙니다.
 - 시연은 화면 캡처 기반 편집본이며 실제 앱 실행 녹화가 아닙니다.
 - 실사 적용 화면의 일부 카드 글자·형상은 생성 과정에서 원본과 달라질 수 있습니다. 정확한 문구와 UI는 원본 캡처를 기준으로 보세요.
 - 숏폼은 GitHub Pages에 공개한 세로 영상 링크입니다. YouTube·Instagram·TikTok 채널 업로드는 하지 않았습니다. 특정 SNS가 요구되는 경우 해당 채널에 같은 MP4를 게시하고 링크를 교체해야 합니다.
 - 영상은 무음이며 화면 자막으로 내용을 전달합니다.
 
 대표자 개인정보·서명·동의서는 공개 저장소에 포함하지 않았습니다. 제출 메일은 발송하지 않았습니다.
+
+60초 시연 최신 편집: 시작 5초, 노을 고속도로 AI 주행 15초(기존 UI 유지), 나머지 10개 장면 각 4초.
+
